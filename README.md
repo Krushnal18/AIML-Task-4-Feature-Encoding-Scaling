@@ -12,4 +12,4 @@ Dataset: Adult Income Dataset
 
 ## Files
 - adult.ipynb
-- adult_preprocessed.csv
+
